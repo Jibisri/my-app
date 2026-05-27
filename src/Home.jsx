@@ -13,7 +13,7 @@ function Home() {
             <h1 className=" shop text-center fw-bold">We Are Hexashop</h1>
             <p className="fst-italic ps-5 fs-5 ">Awesome,clean & creative HTML5 Templete</p>
               {/* button */}
-            <button className="btn btn-outline-light p-3 ms-5">Purchase Now</button>
+            {/* <button className="btn btn-outline-light p-3 ms-5">Purchase Now</button> */}
           </div>
         </div>
 
